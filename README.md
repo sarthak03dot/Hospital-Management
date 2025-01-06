@@ -1,5 +1,12 @@
 # Hospital Management System
 
+## sample
+
+![Vite React and 1 more page - Personal - Microsoft_ Edge 2025-01-06 09-27-54](https://github.com/user-attachments/assets/dc417961-b469-49e3-829b-b12a06874e6e)
+
+
+
+
 A hospital management system developed using the MERN stack (MongoDB, Express, React, Node.js). This system helps streamline the process of managing hospital operations, such as patient records, appointments, staff management, and more.
 
 ## Features
@@ -12,6 +19,10 @@ A hospital management system developed using the MERN stack (MongoDB, Express, R
 ## Technologies Used
 
 - **Frontend**: 
+
+![Vite React and 1 more page - Personal - Microsoft_ Edge 2025-01-06 09-27-54](https://github.com/user-attachments/assets/8f19e8ca-b26d-4ff3-881a-c0de2179471f)
+
+
   - React.js
   - React Router
   - Axios (for API calls)
