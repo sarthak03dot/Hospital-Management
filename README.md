@@ -55,5 +55,5 @@ A hospital management system developed using the MERN stack (MongoDB, Express, R
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/hospital-management.git
+   git clone https://github.com/sarthak03dot/hospital-management.git
    cd hospital-management
